@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![RedsTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsTom&show_icons=true&theme=github_dark)
+
 <!--
 **RedsTom/RedsTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
