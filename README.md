@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm RedsTom, a navbar and Java developper !
 ---
-My website : https://redstom.eu
+My website : https://redstom.me
 
 My Discord profile : [RedsTom#4616](https://discord.com/users/723471302123323434)
 
