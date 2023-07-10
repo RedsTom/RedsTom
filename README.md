@@ -1,11 +1,10 @@
 # 👋 Hi there, I'm RedsTom, a navbar and Java developper !
 ---
-My website : https://redstom.me
+My website : https://redstom.tech
 
-My Discord profile : [RedsTom#4616](https://discord.com/users/723471302123323434)
+My Discord profile : [@redstom](https://discord.com/users/723471302123323434)
 
 ![RedsTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsTom&show_icons=true&theme=github_dark)
-
 [![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RedsTom&langs_count=5&theme=github_dark)]()
 
 <!--
