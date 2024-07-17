@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 
 ---
-My website : https://redstom.tech
+My website : https://redstom.fr
 
 My Discord profile : [@redstom](https://discord.com/users/723471302123323434)
 
